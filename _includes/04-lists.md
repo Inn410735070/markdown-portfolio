@@ -1,2 +1,3 @@
--sleep
--swimming
+*sleep
+*swimming
+*eat
